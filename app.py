@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-BACKEND_URL = "https://yourapp.up.railway.app"
+BACKEND_URL = "https://fastapi-image-resizer-production.up.railway.app/"
 
 st.title("Image Resizer & X Poster")
 
